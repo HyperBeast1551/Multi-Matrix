@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Multi-Matrix",
+			"path": "../../PlatformIO/Projects/Multi-Matrix"
+		}
+	],
+	"settings": {}
+}
