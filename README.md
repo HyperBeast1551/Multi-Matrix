@@ -99,12 +99,10 @@ int16_t offsetY = 0;  // ← replace with your Y offset
 
 ## 🚀 Quickstart
 
-```bash
 1. Wire components per the diagram above
 2. Install MD_MAX72XX via Library Manager
 3. Set calibration offsets in the sketch
 4. Upload → enjoy!
-```
 
 ---
 
